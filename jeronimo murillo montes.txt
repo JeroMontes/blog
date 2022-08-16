@@ -10,3 +10,5 @@ jjerjere
 terminator
 
 master 1000
+
+master 2000
