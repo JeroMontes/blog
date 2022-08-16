@@ -8,3 +8,5 @@ termmee
 master 3
 jjerjere
 terminator
+
+master 1000
