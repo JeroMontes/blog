@@ -8,7 +8,6 @@ termmee
 master 3
 jjerjere
 terminator
-
+exp 1000
 master 1000
-
 master 2000
