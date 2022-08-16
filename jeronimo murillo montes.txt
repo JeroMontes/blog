@@ -11,3 +11,5 @@ terminator
 exp 1000
 master 1000
 master 2000
+exp 2000
+
